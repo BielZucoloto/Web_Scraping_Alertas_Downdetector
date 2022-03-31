@@ -28,20 +28,20 @@ pip3 install beautifulsoup4
 | -k | item key |
 | -o | value to send |
 
-Exemplo:
+__Exemplo:__
 
 `zabbix_sender -z 127.0.0.1 -s ZabbixSender -k downdetector.status.bancopan -o 1`
 
 `zabbix_sender -z 127.0.0.1 -s ZabbixSender -k downdetector.hora.data.alelo -o 'UP 00:18:24 10/12/2020'`
 
-0 INCIDENTE
+0 -> INCIDENTE
 
-1 INCIDENTE RESOLVIDO
+1 -> INCIDENTE RESOLVIDO
 
 ### Crontab
 ```
 https://crontab.guru/
 crontab -e
-*/5 * * * * /usr/bin/python3 /root/web_scraping_alertas_downdetector.py (cada 5 minutos)
+*/5 * * * * /usr/bin/python3 /root/web_scraping_alertas_downdetector.py (roda a cada 5 minutos)
 chmod a+x web_scraping_alertas_downdetector.py
 ```
