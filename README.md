@@ -48,3 +48,9 @@ chmod a+x web_scraping_alertas_downdetector.py
 
 ### Dashboard Grafana
 ![](2022-03-31-19-37-42.gif)
+
+__Canal Telegram onde os dados foram coletados:__
+
+https://t.me/s/alertasdowndetector
+
+![](Canal_Telegram.jpg)
