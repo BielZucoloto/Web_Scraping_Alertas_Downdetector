@@ -29,7 +29,9 @@ pip3 install beautifulsoup4
 | -o | value to send |
 
 Exemplo:
+
 zabbix_sender -z 127.0.0.1 -s ZabbixSender -k downdetector.status.bancopan -o 1
+
 zabbix_sender -z 127.0.0.1 -s ZabbixSender -k downdetector.hora.data.alelo -o 'UP 00:18:24 10/12/2020'
 
 0 INCIDENTE
