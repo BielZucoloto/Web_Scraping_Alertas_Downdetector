@@ -45,3 +45,5 @@ crontab -e
 */5 * * * * /usr/bin/python3 /root/web_scraping_alertas_downdetector.py (roda a cada 5 minutos)
 chmod a+x web_scraping_alertas_downdetector.py
 ```
+
+![](2022-03-31-19-37-42.gif)
