@@ -41,8 +41,8 @@ __Exemplo:__
 1 -> INCIDENTE RESOLVIDO
 
 ### Crontab
+- [Crontab Editor](https://crontab.guru/)
 ```
-https://crontab.guru/
 crontab -e
 */5 * * * * /usr/bin/python3 /root/web_scraping_alertas_downdetector.py (roda a cada 5 minutos)
 chmod a+x web_scraping_alertas_downdetector.py
