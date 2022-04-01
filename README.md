@@ -4,6 +4,8 @@ Script de automação
 ## Sobre
 O objetivo era desenvolver um script em `Python` utilizando a biblioteca `Beautiful Soup` que coletaria os status dos serviços online através de um canal no `Telegram` e enviaria os dados coletados por meio de `zabbix_sender` para o servidor `Zabbix`, que integrado ao `Grafana` apresentaria as informações de forma organizada.
 
+Nesse repositório além do script, também estarei disponibilizando o `template do zabbix` e o `dashboard do grafana` utilizados no projeto.
+
 ### Versões usadas
 ```
 ZABBIX  v6.0.2
@@ -60,5 +62,9 @@ __Desenvolvido por:__
 ```
 Gabriel Aparecido Zucoloto
 ```
-www.linkedin.com/in/gabriel-zucoloto-51a51b231
+- [Linkedin](https://www.linkedin.com/in/gabriel-zucoloto-51a51b231)
+- [Portfolio](https://bielzucoloto.github.io/)
+
+
+
 
