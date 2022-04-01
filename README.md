@@ -54,3 +54,11 @@ __Canal Telegram onde os dados foram coletados:__
 https://t.me/s/alertasdowndetector
 
 ![](Canal_Telegram.jpg)
+
+### Créditos
+__Desenvolvido por:__
+```
+Gabriel Aparecido Zucoloto
+```
+www.linkedin.com/in/gabriel-zucoloto-51a51b231
+
